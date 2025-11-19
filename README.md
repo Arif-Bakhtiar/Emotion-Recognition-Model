@@ -44,5 +44,8 @@ This project leverages the **RAVDESS dataset** and extracts **MFCC features** fr
 Test Accuracy:	84.20%
 
 ---
+##  Author
 
+M. M. Arif Bakhtiar
+mmarifbakhtiar.ece.ruet@gmail.com
 
