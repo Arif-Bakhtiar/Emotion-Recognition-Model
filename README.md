@@ -26,7 +26,7 @@ This project leverages the **RAVDESS dataset** and extracts **MFCC features** fr
 - Easily extendable to other emotion datasets  
 
 ---
-
+## Dataset: https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
 ## Model Architecture
 
 **Model Type:** Sequential LSTM  
